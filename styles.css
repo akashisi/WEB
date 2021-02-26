@@ -1,0 +1,30 @@
+body
+{
+ background-image: url(college.jpg);
+ /*background-image: -moz-repeating-radial-gradient();*/
+
+ background-repeat: repeat-y;
+ background-position: right top;
+  font-weight: 500;
+  padding: 6%;
+  margin: 4%;
+}
+h1,pre
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: black;
+  font-size: 200%;
+  background-color: chartreuse;
+  border: 4px red dotted ;
+  border-style: double dotted;
+  border-width: 5px 9px;
+  border-color: sienna;
+  border-radius: 20px;
+  
+
+}
+h2
+{
+  
+}
+
